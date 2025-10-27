@@ -2,7 +2,7 @@
 2D game engine entirely inside of Roblox (with other additional stuff)
 
 # Current addons with this engine:
-• TileLight (tile based lighting)
+• TileLight (tile based flood fill lighting)
 • Spring2D (gui based springs)
 • Ray2D (gui based raycasts)
 • Pathfind2D (gui based pathfinding uses a*)
@@ -13,7 +13,7 @@
 
 • (Draw2D) a pretty powerful pixel based rendering engine similar to ethanthegrand's CanvasDraw
 
-
+• (Platformer2D) 2D Platformer engine with proper platforming physics, particles, enemies, and multiplayer
 
 # Pixl2D Images/Showcase
 
